@@ -1,1 +1,2 @@
 # MagazineApp
+hello si Ali
